@@ -11,6 +11,7 @@ let salaries = {
   'pete': 300,
   'mary': 250
 };
+
 function topSalaries () {
   let max = 0;
   let top;
